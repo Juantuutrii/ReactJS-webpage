@@ -126,7 +126,7 @@ const Home = () => {
 			<div className="py-5">
 				<div className="container d-flex justify-content-center align-items-center">
 					<div className="col-12 col-md-9 col-lg-6 py-5 text-center">
-						<p className="display-6 mb-1">Work with an elite team of thinkers.</p>
+						<p className="display-6 mb-1">TEAM COLLABORATION</p>
 						<button className="btn p-2 btn_custom col-lg-3 col-md-5 col-6">GET IN TOUCH</button>
 					</div>
 				</div>
